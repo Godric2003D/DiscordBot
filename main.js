@@ -1,8 +1,8 @@
 const Discord = require('discord.js');
 const math = require('mathjs');
 
-
 const bot = new Discord.Client();
+require('dotenv').config();
 const { Player } = require("discord-player");
 const player = new Player(bot);
 bot.player = player;
@@ -145,7 +145,7 @@ bot.on('message', message => {
   }
 });
 
-bot.login('process.env.token');
+bot.login('NzY5MDQwNjk4ODYzMjU1NjEz.X5JO9g.8e7-CUl4tYnmcxAd2obeYdcWEZ0');
 
 
 
