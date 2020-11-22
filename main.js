@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const math = require('mathjs');
 
 const bot = new Discord.Client();
-require('dotenv').config();
+
 const { Player } = require("discord-player");
 const player = new Player(bot);
 bot.player = player;
