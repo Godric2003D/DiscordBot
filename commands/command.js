@@ -17,7 +17,7 @@ module.exports= {
         .setImage('https://wallpaperaccess.com/full/1209274.jpg')
         .setAuthor('Debayan')
         .setFooter('Thanks for being a part of this aawesome bot')
-        .setFooter('Cute cat i got here btw..lol..xDDDDDDDDDDDDDDD,Thanks for being a part of this awesome bot')
+        .setFooter('Copyright')
         
         message.channel.send(newEmbed);
     }
