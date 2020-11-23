@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Magic",
   "main": "main.js",
+  "engine":{
+    "node": "15x"
+  },
   "scripts": {
     "test": "mocha"
   },
