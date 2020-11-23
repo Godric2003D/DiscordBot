@@ -145,7 +145,7 @@ bot.on('message', message => {
   }
 });
 
-bot.login('NzY5MDQwNjk4ODYzMjU1NjEz.X5JO9g.8e7-CUl4tYnmcxAd2obeYdcWEZ0');
+bot.login('process.env.token');
 
 
 
