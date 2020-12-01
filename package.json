@@ -4,6 +4,7 @@
   "description": "Magic",
   "main": "main.js",
   "engines": {
+    "npm": "7.x",
     "node": "15.x"
   },
   "scripts": {
