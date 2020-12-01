@@ -4,7 +4,7 @@
   "description": "Magic",
   "main": "main.js",
   "engine":{
-    "node": "15x"
+    "node": "15.x"
   },
   "scripts": {
     "test": "mocha"
