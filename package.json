@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Magic",
   "main": "main.js",
-  "engine":{
+  "engine": {
     "node": "15.x"
   },
   "scripts": {
